@@ -93,4 +93,4 @@ For any inquiries or support, please contact **[panchalviresh757@gmail.com]**.
 
 # Demo image
 
-![todo list](https://github.com/user-attachments/assets/1c9c2eba-97b6-4a4a-bb87-c70581b7a302)
+![todo list](https://github.com/user-attachments/assets/d1ff140f-7c57-4605-9b9f-b6e35df7f965)
